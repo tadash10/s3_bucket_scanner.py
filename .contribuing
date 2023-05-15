@@ -1,9 +1,27 @@
-# ignore any Python bytecode files
-*.pyc
+ Contributing to AWS S3 Bucket Scanner
 
-# ignore the virtual environment directory
-venv/
+Thank you for considering contributing to the AWS S3 Bucket Scanner! Please follow these guidelines to ensure that your contributions are considered.
 
-# ignore any generated files or directories
-__pycache__/
-report/
+## Submitting an Issue
+
+If you find a bug, have a suggestion for a new feature, or would like to discuss something related to the project, please submit an issue on GitHub.
+
+When submitting an issue, please include the following information:
+
+- A brief description of the issue
+- Steps to reproduce the issue (if applicable)
+- Expected behavior
+- Actual behavior
+- Operating system and Python version
+
+## Contributing Code
+
+If you would like to contribute code, please follow these steps:
+
+1. Fork the repository and clone it to your local machine.
+2. Create a new branch for your changes.
+3. Make your changes and commit them with a descriptive message.
+4. Push your changes to your fork.
+5. Submit a pull request with a description of your changes.
+
+Please ensure that your code follows the existing code style and that any new code is covered by unit tests. Thank you for your contributions!
