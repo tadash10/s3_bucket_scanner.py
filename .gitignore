@@ -1,0 +1,9 @@
+# ignore any Python bytecode files
+*.pyc
+
+# ignore the virtual environment directory
+venv/
+
+# ignore any generated files or directories
+__pycache__/
+report/
