@@ -1,5 +1,6 @@
 # s3_bucket_scanner.py
-.AWS S3 Bucket Scanner
+
+AWS S3 Bucket Scanner
 Description
 
 The AWS S3 Bucket Scanner is a Python script that scans all the S3 buckets in an AWS account and checks for any security issues such as publicly accessible buckets or buckets with weak Access Control Lists (ACLs).
